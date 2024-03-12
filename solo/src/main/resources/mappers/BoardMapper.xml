@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.icia.solo.dao.BoardDao">
+<insert id="boardinfo">
+insert into board1 values(default,#{userId},#{bTitle},#{bDetail})
+
+</insert>
+
+<select id = "readboardlist">
+select * from board1 order by bCnt desc;
+</select>
+
+<select id = "boardread">
+select * from board1 where bCnt = #{bCnt}
+</select>
+
+<update id="boardupdate">
+	UPDATE board1 SET bDetail = #{bDetail},  bTitle = #{bTitle} WHERE bCnt = #{bCnt};
+</update>
+</mapper>

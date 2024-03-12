@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="rootDirectory">
+			<item value="C:\Users\thdxo\git\mavenProject111"/>
+			<item value="C:\Users\thdxo\git\mavenProject12342134234"/>
+			<item value="C:\Users\thdxo\git\mavenProject32454352"/>
+			<item value="C:\Users\thdxo\git\mavenProject123"/>
+			<item value="C:\Users\thdxo\git\mavenProject1234444"/>
+			<item value="C:\Users\thdxo\git\mavenProject21"/>
+			<item value="C:\Users\thdxo\git\mavenProject"/>
+			<item value="C:\Users\thdxo\git\mavenProject09875"/>
+			<item value="C:\Users\thdxo\git\mavenProject111111"/>
+			<item value="C:\Users\thdxo\git\mavenProject1"/>
+			<item value="C:\Users\thdxo\git\mavenProject111111111"/>
+			<item value="C:\Users\thdxo\git\mavenProject11223344"/>
+			<item value="C:\Users\thdxo\git\mavenProject332211"/>
+			<item value="C:\Users\thdxo\git\mavenProject121"/>
+			<item value="C:\Users\thdxo\git\mavenProject12345"/>
+		</list>
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+			<item value="scm:git:ssh://github.com/&lt;your-project&gt;"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

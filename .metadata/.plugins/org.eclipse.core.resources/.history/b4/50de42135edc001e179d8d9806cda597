@@ -1,0 +1,21 @@
+package com.icia.BOO.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.icia.BOO.Dto.MemberDto;
+import com.icia.BOO.MemberDao.MenberDao;
+
+@Service
+public class MemberService {
+	
+	@Autowired
+	MenberDao memberdao;
+	
+	public void insert(MemberDto dto) {
+		memberdao.save(dto);
+		
+	}
+
+	
+}

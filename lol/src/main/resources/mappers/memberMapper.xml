@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.icia.lol.dao.MemberDao">
+	<select id="login">
+		select * from member1 where userId = #{userId}
+	</select>
+	
+	<insert id ="join">
+		insert into member1 values(#{userId},#{userPw});
+	</insert>
+</mapper>
+

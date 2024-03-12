@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.icia.lol.dao.BoardDao">
+<insert id ="input">
+	insert into board1  values(null,#{userId},#{bTitle},#{bDetail});
+</insert>
+
+<select id="boardInfo">
+	select * from board1 order by bCnt desc;
+</select>
+
+<select id ="boardRead">
+	select * from board1 where bCnt = #{bCnt}
+</select>
+
+<select id="selectBoard">
+select * from board1 where userId = #{userId}
+</select>
+
+<update id="boardUpdata">
+UPDATE board1 SET bTitle = #{bDetail},  bDetail = #{bDetail}  WHERE userId = #{userId};
+</update>
+</mapper>

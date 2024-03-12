@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.icia.myBoard.Dao.BoardDao">
+<select id="showboard">
+select * from board1 order by bCnt desc limit #{newboard},20;
+</select>
+
+<insert id="boardinsert">
+insert into board1 values(default,#{userId},#{bTitle},#{bDetail})
+</insert>
+
+<select id="boardread">
+select * from board1 where bCnt = #{bCnt};
+</select>
+<update id="boardupdate">
+UPDATE board1 SET bDetail = #{bDetail} WHERE bCnt = #{bCnt};
+</update>
+<delete id="boarddelete">
+	delete from board1 where bCnt=#{bCnt}
+</delete>
+<select id="boardtotal">
+	select count(*) from board1;
+</select>
+
+<insert id="commentupdate">
+insert into comment values( #{bCnt},default,#{userId},#{cDetail})
+</insert>
+
+<select id="commentread">
+	select * from comment where bCnt = #{bCnt} order by bCnt desc;
+</select>
+</mapper>

@@ -1,0 +1,4 @@
+if (res[i]["info"][j]['win'] == '1') {
+
+					$("#container1").css('backgroundColor','rgba(255, 2, 73, 0.09)')
+				}

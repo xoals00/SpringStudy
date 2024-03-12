@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--  에러시 window-preferences-maven검색 Download Artifact javadoc 체크할것 -->
+<mapper namespace="com.icia.song.dao.MemberDao">
+	<select id="login" parameterType="HashMap" resultType="Boolean">
+		select count(*) from song_member where s_ID=#{id} and s_PW=#{pw}
+	</select>
+	
+	<insert id="join" parameterType="MemberDto">
+	insert into song_member values(#{s_id},#{s_pw},#{s_name},#{s_birth},
+			#{s_addr},#{s_phone},default)	
+	</insert>
+</mapper>

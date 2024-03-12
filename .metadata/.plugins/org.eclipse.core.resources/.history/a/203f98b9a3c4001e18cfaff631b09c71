@@ -1,0 +1,134 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>송태민</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js" ></script>
+</head>
+<body>
+
+<div id="puuid"></div>
+
+<!-- <div class='container1'> -->
+<!-- </div> -->
+
+ <div class="win-lose-board" id = 'win-lose-board'>
+        <div class="match-header" id = 'match-header'>
+        
+         <div class="one">
+                <div class="puuid">
+                        게임 모드(칼바람)
+                </div>
+                <div class="win-lose">
+                        승패(승리)
+                </div>
+            </div>
+            <div class="two">
+                <div class="champimg">플레이어 챔프사진</div>
+                <div class="spellgroup">
+                    <div class="spell1">스펠1</div>
+                    <div class="spell2">스펠2</div>
+                </div>
+                <div class="number">
+                    <div class="KDA">kda</div>
+                    <div class="grade">kda평균</div>
+                </div>
+                <div class="itemlist">
+                    <div class="tool">
+                        <div class="item1"></div>
+                        <div class="item2"></div>
+                        <div class="item3"></div>
+                        <div class="item4"></div>
+                        <div class="item5"></div>
+                        <div class="item6"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="three">
+                <div class="p-kill">킬관여율</div>
+                <div class="dragon">드래곤 킬</div>
+            </div>
+            <div class="four">
+                <div class="timestamp">9일전</div>
+                <div class="gametimes">20분게임</div>
+            </div>
+            <div class="actions">
+                <div></div><button class="btn-detail active"><span class="svg-icon css-zmp1xi e9vjclc0"
+                        style="color: rgb(83, 131, 232); width: 24px; height: 24px;"><svg
+                            xmlns="http://www.w3.org/2000/svg" width="24" height="150" viewBox="0 0 24 24"
+                            fill="currentColor">
+                            <g fill="currentColor" fill-rule="evenodd">
+                                <g fill="currentColor" fill-rule="nonzero">
+                                    <g fill="currentColor">
+                                        <path d="M12 13.2L16.5 9 18 10.4 12 16 6 10.4 7.5 9z"
+                                            transform="translate(-64 -228) translate(64 228)" fill="currentColor">
+                                        </path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg></span></button>
+            </div>
+             <div class="one">
+                <div class="puuid">
+                        게임 모드(칼바람)
+                </div>
+                <div class="win-lose">
+                        승패(승리)
+                </div>
+            </div>
+            <div class="two">
+                <div class="champimg">플레이어 챔프사진</div>
+                <div class="spellgroup">
+                    <div class="spell1">스펠1</div>
+                    <div class="spell2">스펠2</div>
+                </div>
+                <div class="number">
+                    <div class="KDA">kda</div>
+                    <div class="grade">kda평균</div>
+                </div>
+                <div class="itemlist">
+                    <div class="tool">
+                        <div class="item1"></div>
+                        <div class="item2"></div>
+                        <div class="item3"></div>
+                        <div class="item4"></div>
+                        <div class="item5"></div>
+                        <div class="item6"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="three">
+                <div class="p-kill">킬관여율</div>
+                <div class="dragon">드래곤 킬</div>
+            </div>
+            <div class="four">
+                <div class="timestamp">9일전</div>
+                <div class="gametimes">20분게임</div>
+            </div>
+            <div class="actions">
+                <div></div><button class="btn-detail active"><span class="svg-icon css-zmp1xi e9vjclc0"
+                        style="color: rgb(83, 131, 232); width: 24px; height: 24px;"><svg
+                            xmlns="http://www.w3.org/2000/svg" width="24" height="150" viewBox="0 0 24 24"
+                            fill="currentColor">
+                            <g fill="currentColor" fill-rule="evenodd">
+                                <g fill="currentColor" fill-rule="nonzero">
+                                    <g fill="currentColor">
+                                        <path d="M12 13.2L16.5 9 18 10.4 12 16 6 10.4 7.5 9z"
+                                            transform="translate(-64 -228) translate(64 228)" fill="currentColor">
+                                        </path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg></span></button>
+            </div>
+        
+        
+        
+        </div>
+        </div>
+
+</body>
+</html>

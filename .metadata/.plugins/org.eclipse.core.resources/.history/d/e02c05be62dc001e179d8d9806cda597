@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<html xmlns:th="http://www.thymeleaf.org">
+</head>
+
+<body>
+	<h1>ㅎㅇ</h1>
+	<form action="/join" method="post">
+		<input id="userId" name="userId" type="text" value="아이디">
+		<input id="userPw" name="userPw" type="text" value="비밀번호">
+		<button>회원가입</button>
+	</form>
+	[[${userId}]] 님 반갑습니다
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+package com.icia.BOO.MemberDao;
+
+public interface MenberDao {
+
+}

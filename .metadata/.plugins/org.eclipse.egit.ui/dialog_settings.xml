@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/janggihun/mavenProject.git"/>
+		<item value="https://github.com/janggihun/124124.git"/>
+		<item value="https://github.com/janggihun/mavenProject"/>
+		<item value="https://github.com/janggihun/final/"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="thdxo &lt;thdxo@DESKTOP-P8IBNUO&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="thdxo &lt;thdxo@DESKTOP-P8IBNUO&gt;"/>
+	</list>
+	<section name="CommitSelectionDialogSection">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="459,540"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\thdxo\git\mavenProject\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject1\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject3\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject4\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject6\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject0\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject2\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject22\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject11\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject12\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject21\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject122\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject121\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject14\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\124124\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProjectnew\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject1111\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject2222\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject0202\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject2020\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject1234\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject0000\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject9999\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject22222\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject2121\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject02020202\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject12345\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject332211\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject11223344\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject111111111\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject111111\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject09875\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject1234444\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject123\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject5\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject32454352\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject12342134234\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject111\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject333\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject123456\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject321\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject543\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject098\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject2345\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject341\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject34\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject32\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject55\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject324\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject45\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject3232\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\thdxo\git\mavenProject345\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="635"/>
+		<item key="DIALOG_Y_ORIGIN" value="204"/>
+		<item key="DIALOG_WIDTH" value="668"/>
+		<item key="DIALOG_HEIGHT" value="481"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>
